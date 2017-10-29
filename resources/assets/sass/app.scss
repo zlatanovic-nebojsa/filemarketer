@@ -1,0 +1,12 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// 1. Import the initial variables
+@import "variables";
+@import "~bulma/bulma";
+@import "~dropzone/dist/dropzone.css";
+
+.dropzone {
+	margin-bottom: 20px;
+	min-height: auto;
+}
